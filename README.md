@@ -12,3 +12,4 @@ So what are you waiting for just clone this repository and start learning.
 4. Copy the link and open that link in your browser 
 5. A file explorer type website will be shown to you, navigate to the desired notebook and clik on it
 6. the notebook will open and ready to be used.
+amazing turtle
